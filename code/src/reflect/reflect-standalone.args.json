@@ -1,0 +1,26 @@
+{
+  "FileVersion": 2,
+  "Id": "4ceb97c5-07b6-e8ff-7ce6-2f91b4d5c786",
+  "Items": [
+    {
+      "Id": "3ca21118-94a4-464f-b248-bd51e0fcf371",
+      "Command": "\"c:\\dev\\paw\\code\\src\\reflection-tests\\tests.h\""
+    },
+    {
+      "Id": "30729401-df3e-43bd-837a-850f025dfa45",
+      "Command": "\"C:\\dev\\paw\\temp\\generated\\reflection-tests\\tests.generated_h.cpp\""
+    },
+    {
+      "Id": "b28751ad-75e8-44a9-95d3-9778f2dbe06b",
+      "Command": ""
+    },
+    {
+      "Id": "a8111d7c-0c11-48d3-ab3d-e1fe969fea59",
+      "Command": "\"c:\\dev\\paw\\code\\src\\core\\public\\core\\reflection_types.h\""
+    },
+    {
+      "Id": "0d9e5b17-320f-4e0d-b510-6522fd7ffc7a",
+      "Command": "\"C:\\dev\\paw\\temp\\generated\\core\\public\\core\\reflection_types.generated_h.cpp\""
+    }
+  ]
+}
